@@ -2618,9 +2618,9 @@ kombu==5.6.2 \
     --hash=sha256:8060497058066c6f5aed7c26d7cd0d3b574990b09de842a8c5aaed0b92cc5a55 \
     --hash=sha256:efcfc559da324d41d61ca311b0c64965ea35b4c55cc04ee36e55386145dace93
     # via celery
-langchain-core==1.6.1 \
-    --hash=sha256:1b156cb395aac4f009a8a1b38a574c7d948fe2d5f74c96e0d8a5017b4149e04f \
-    --hash=sha256:954a84132a5cb0435d27b910e336347b6744ecc18fbeef1e2de7029a0959841a
+langchain-core==1.7.3 \
+    --hash=sha256:460c214bf31495d7b7e0a879e408dbfda677fd53fd879da786c1b966a4f6bff6 \
+    --hash=sha256:77f70b81e238c981bfd8405840b03fdf143735ac93c0729c2bdb39d6f0648024
     # via semantica (pyproject.toml)
 langchain-protocol==0.0.19 \
     --hash=sha256:4cdf879a492a35980fd859ae792d3c65458ccaae504e183c9a10d7eac1f0720f \
