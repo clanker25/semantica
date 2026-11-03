@@ -5709,8 +5709,8 @@ questionary==2.1.1 \
     --hash=sha256:3d7e980292bb0107abaa79c68dd3eee3c561b83a0f89ae482860b181c8bd412d \
     --hash=sha256:a51af13f345f1cdea62347589fbb6df3b290306ab8930713bfae4d475a7d4a59
     # via agnoctl
-rapidocr==3.9.2 \
-    --hash=sha256:04d6b8d151f823d930bd91910555f57bea897c0c44fa6794267b94cf9c1ef9a0
+rapidocr==3.10.0 \
+    --hash=sha256:2fc34e26cd0f48514804a94f8832283039c7334076bff60768b1fed9ad068050
     # via docling-slim
 rdflib==7.6.0 \
     --hash=sha256:30c0a3ebf4c0e09215f066be7246794b6492e054e782d7ac2a34c9f70a15e0dd \
