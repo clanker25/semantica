@@ -4064,10 +4064,11 @@ nvidia-curand==10.4.0.35 \
     --hash=sha256:1aee33a5da6e1db083fe2b90082def8915f30f3248d5896bcec36a579d941bfc \
     --hash=sha256:65b1710aa6961d326b411e314b374290904c5ddf41dc3f766ebc3f1d7d4ca69f
     # via cuda-toolkit
-nvidia-cusolver==12.0.4.66 \
-    --hash=sha256:02c2457eaa9e39de20f880f4bd8820e6a1cfb9f9a34f820eb12a155aa5bc92d2 \
-    --hash=sha256:0a759da5dea5c0ea10fd307de75cdeb59e7ea4fcb8add0924859b944babf1112 \
-    --hash=sha256:16515bd33a8e76bb54d024cfa068fa68d30e80fc34b9e1090813ea9362e0cb65
+nvidia-cusolver==12.4.1.2 \
+    --hash=sha256:1f54c8e0d5b1ebd183b4c5a79f0709fa90241e8254da381ca5b969ee97c8de32 \
+    --hash=sha256:6b7be7d7dd60ba0e91cae19357a1d8c57dae321c0df99d92792ec025d791cc88 \
+    --hash=sha256:8ec8a68b661ecdb89f4724a993ea9fab5c8096fc14aee5452344628a11529715 \
+    --hash=sha256:b3b8e02fd2f2df869369af075dc3a179d43f6f7b85e94632a7dce556697be044
     # via cuda-toolkit
 nvidia-cusparse==12.6.3.3 \
     --hash=sha256:2b3c89c88d01ee0e477cb7f82ef60a11a4bcd57b6b87c33f789350b59759360b \
